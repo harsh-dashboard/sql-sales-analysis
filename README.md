@@ -23,3 +23,8 @@ This project analyzes sales performance, regional contribution, customer ranking
 - Revenue is concentrated among top-performing customers.
 - Sales trends fluctuate month-over-month.
 
+## Sample Output
+
+![Regional Sales](screenshots/region_sales.png)
+![Customer Ranking](screenshots/ranking_output.png)
+![MoM Growth](screenshots/mom_growth.png)
